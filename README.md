@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Taste of the Town San Marcos! 
+
+This eventr will be held on Ocotber X, 2022
 
 You can use the [editor on GitHub](https://github.com/javard54/javard54.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
